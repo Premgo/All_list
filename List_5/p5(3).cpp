@@ -25,7 +25,8 @@ public:
 class Student : public Person, public Address {
 public:
     void display() {
-       
+           cout<<"Prem Gohel"<<endl;
+		   cout<<"220130318003"<<endl;
         cout << "Name: " << name << endl;
         cout << "Address: " << address << endl;
     }
