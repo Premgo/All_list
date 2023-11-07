@@ -6,6 +6,8 @@ class Vehicle{
    public:
       void vehicle()
       {
+         cout<<"Prem Gohel"<<endl;
+		   cout<<"220130318003"<<endl;
          cout<<"I am a Vehicle"<< endl;
       }
 };
