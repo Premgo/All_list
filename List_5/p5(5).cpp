@@ -13,7 +13,8 @@ public:
     }
 
     void display() {
-       
+          cout<<"Prem Gohel"<<endl;
+		   cout<<"220130318003"<<endl;
         cout << "Value of num: " << this->num << endl;
     }
 
